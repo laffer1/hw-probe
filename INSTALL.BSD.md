@@ -188,7 +188,7 @@ Get the tool:
 
 Install dependencies manually:
 
-    mport install dmidecode smartmontools cpuid curl perl
+    mport install dmidecode smartmontools cpuid curl
 
 or automatically:
 
